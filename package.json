@@ -4,7 +4,7 @@
   "main": "./index.js",
   "description": "Makes executables from your scripts with Webpack",
   "dependencies": {
-    "pkg": "^4.1.2"
+    "pkg": "^5.8.0"
   },
   "peerDependencies": {
     "webpack": " >= 4.0"
