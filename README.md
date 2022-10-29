@@ -6,7 +6,7 @@
 
 ### Install
 ```bash
-  npm i --save-dev webpack-pkg-plugin-v4
+  npm i --save-dev haohetao/webpack-pkg-plugin-v4
 ```
 
 ### Usage
